@@ -1,0 +1,6 @@
+#define RESOLUTION_X 240
+#define RESOLUTION_Y 320
+
+#define PI 3.14159265
+
+#define FIELD_OF_VIEW 45

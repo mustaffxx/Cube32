@@ -1,0 +1,5 @@
+cube_utils.c:9:7:calculate_z0	4	static
+cube_utils.c:13:9:translate	72	static
+cube_utils.c:21:9:rotate	112	static
+cube_utils.c:35:9:apply_perspective	64	static
+cube_utils.c:43:9:center_screen	64	static
